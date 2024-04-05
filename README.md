@@ -48,7 +48,7 @@ function filterPrimes(arr) {
   
   console.log(filterPrimes([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 
-  git clone
+  git clone git@github.com:lenny4469/SA.02-WK2-Code-Challenge.git
 
   Support and contact details...
 
